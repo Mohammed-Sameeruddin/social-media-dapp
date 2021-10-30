@@ -2,9 +2,7 @@ import React from 'react';
 import { makeStyles, Typography } from '@material-ui/core';
 import { List } from '@material-ui/core';
 import { ListItem } from '@material-ui/core';
-import { ListItemAvatar } from '@material-ui/core';
 import { ListItemText,Paper } from '@material-ui/core';
-import { Avatar } from '@material-ui/core';
 import Button from '@material-ui/core/Button';
 import PersonPinIcon from '@mui/icons-material/PersonPin';
 
