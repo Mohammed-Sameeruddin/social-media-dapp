@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "client + blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Codera",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/contract": "^4.3.30",
+    "nodemon": "^2.0.12",
+    "truffle": "^5.0.2"
+  }
+}
