@@ -3,7 +3,6 @@ import Card from '@material-ui/core/Card';
 import {makeStyles} from '@material-ui/core';
 import CardHeader from '@material-ui/core/CardHeader';
 import { Avatar } from '@material-ui/core';
-import Container from '@material-ui/core/Container';
 import CardMedia from '@material-ui/core/CardMedia';
 import { Typography } from '@material-ui/core';
 import { CardContent } from '@material-ui/core';
